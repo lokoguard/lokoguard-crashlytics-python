@@ -15,7 +15,7 @@ setup(
     license='MIT',
     url="https://github.com/lokoguard/lokoguard-crashlytics-python",
     classifiers=[
-        'Development Status :: 1 - Beta',
+        'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
         'Topic :: Software Development :: Libraries :: Python Modules',
         'License :: OSI Approved :: MIT License',
